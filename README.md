@@ -30,7 +30,7 @@ Developed local search algorithms to optimize the geographical distribution and 
 
 ### 🤖 Catering Expert System 
 Engineered a knowledge-based expert system using an ontology to generate customized catering menus based on complex constraints (budget, allergies, event type, and seasonality).
-* **Tech:** Clips
+* **Tech:** CLIPS, Turtle
 * **Features:** Implemented heuristic classification and reasoning rules to select optimal combinations, modeling complex logical rules and inferences.
 
 ## 📫 Let's Connect!

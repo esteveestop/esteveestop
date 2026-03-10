@@ -6,7 +6,7 @@ I am currently seeking opportunities to apply my knowledge in real-world softwar
 
 ## 💻 About Me
 
-* 🧠 **Interests:** Machine Learning, Artificial Intelligence, Compiler Design, and Optimization Algorithms.
+* 🧠 **Interests:** Machine Learning, Artificial Intelligence and Optimization Algorithms.
 * 🔧 **Tech Stack:** Python, C, C++, Java, Prolog, Haskell, MATLAB.
 * 📊 **Data & AI:** Keras, Scikit-learn, Pandas, NumPy.
 * 🌍 **Languages:** Native in Catalan and Spanish, with a C1 level in English.

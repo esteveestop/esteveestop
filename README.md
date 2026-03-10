@@ -1,6 +1,6 @@
 # Hi there, I'm Esteve Estop 👋
 
-[cite_start]I'm a Computer Engineering student at the Universitat Politècnica de Catalunya (UPC), specializing in Computer Science[cite: 4]. I am passionate about Artificial Intelligence, low-level programming, and solving complex algorithmic challenges. 
+I'm a Computer Engineering student at the Universitat Politècnica de Catalunya (UPC), specializing in Computer Science. I am passionate about Artificial Intelligence, low-level programming, and solving complex algorithmic challenges. 
 
 I am currently seeking opportunities to apply my knowledge in real-world software engineering and data science environments.
 
@@ -9,7 +9,7 @@ I am currently seeking opportunities to apply my knowledge in real-world softwar
 * 🧠 **Interests:** Machine Learning, Artificial Intelligence, Compiler Design, and Optimization Algorithms.
 * 🔧 **Tech Stack:** Python, C, C++, Java, Prolog, Haskell, MATLAB.
 * 📊 **Data & AI:** Keras, Scikit-learn, Pandas, NumPy.
-* [cite_start]🌍 **Languages:** Native in Catalan [cite: 31] [cite_start]and Spanish [cite: 32][cite_start], with a C1 level in English[cite: 33].
+* 🌍 **Languages:** Native in Catalan and Spanish, with a C1 level in English.
 * 🎓 **Academic Note:** Many of my core projects are held in private university repositories to comply with academic integrity policies, but below is a highlight of my main architectural and developmental work.
 
 ## 🚀 Featured Projects & Experience
@@ -37,5 +37,5 @@ Engineered a knowledge-based expert system using an ontology to generate customi
 
 ## 📫 Let's Connect!
 
-* **LinkedIn:** [Link to your LinkedIn]
-* [cite_start]**Email:** esteve.estop@gmail.com [cite: 2]
+* **LinkedIn:** 
+* **Email:** esteve.estop@gmail.com

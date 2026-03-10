@@ -7,18 +7,16 @@ I am currently seeking opportunities to apply my knowledge in real-world softwar
 ## 💻 About Me
 
 * 🧠 **Interests:** Machine Learning, Artificial Intelligence and Optimization Algorithms.
-* 🔧 **Tech Stack:** Python, C, C++, Java, Prolog, Haskell, MATLAB.
+* 🔧 **Tech Stack:** Python, C, C++, Java, Prolog, Haskell, MATLAB, OpenGL.
 * 📊 **Data & AI:** Keras, Scikit-learn, Pandas, NumPy.
 * 🌍 **Languages:** Native in Catalan and Spanish, with a C1 level in English.
-* 🎓 **Academic Note:** Many of my core projects are held in private university repositories to comply with academic integrity policies, but below is a highlight of my main architectural and developmental work.
 
 ## 🚀 Featured Projects & Experience
 
 ### 🛠️ Custom Language Compiler (Ongoing)
 Developing a fully functional compiler for a custom programming language as part of advanced coursework.
-* **Tech:** C++, Flex, Bison
+* **Tech:** C++, ANTLR
 * **Features:** Lexical and syntax analysis, semantic checking, and abstract syntax tree (AST) construction.
-* *(Note: Add a link here to the repo if this one is public!)*
 
 ### 📈 Fair Salary Prediction Model 
 Built a machine learning pipeline using a Harvard Dataverse dataset to predict perceived fair salaries based on demographic and professional profiles.
@@ -27,15 +25,15 @@ Built a machine learning pipeline using a Harvard Dataverse dataset to predict p
 
 ### 🌐 Sensor Network Optimizer 
 Developed local search algorithms to optimize the geographical distribution and connection network between remote sensors and data centers.
-* **Tech:** C++, Python
+* **Tech:** Java
 * **Features:** Implemented algorithms (Hill Climbing, Simulated Annealing) to successfully minimize total connection costs and maximize data storage capacity while adhering to strict hardware limitations.
 
 ### 🤖 Catering Expert System 
 Engineered a knowledge-based expert system using an ontology to generate customized catering menus based on complex constraints (budget, allergies, event type, and seasonality).
-* **Tech:** Prolog
+* **Tech:** Clips
 * **Features:** Implemented heuristic classification and reasoning rules to select optimal combinations, modeling complex logical rules and inferences.
 
 ## 📫 Let's Connect!
 
-* **LinkedIn:** 
+* **LinkedIn:** linkedin.com/in/esteve-estop/
 * **Email:** esteve.estop@gmail.com
